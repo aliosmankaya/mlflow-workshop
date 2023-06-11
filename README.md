@@ -3,7 +3,9 @@ MLflow is an open-source platform that simplifies the management of the end-to-e
 provides a comprehensive set of tools and functionalities to help data scientists and machine learning engineers track 
 experiments, package models, and deploy them into production environments.
 
-<img src="https://adatis.co.uk/wp-content/uploads/MLflow-logo.png" width="350" style="display: block; margin-left: auto; margin-right: auto">
+<p align="center">
+    <img src="https://adatis.co.uk/wp-content/uploads/MLflow-logo.png" width="350">
+</p>
 
 At its core, MLflow consists of three key components:
 
